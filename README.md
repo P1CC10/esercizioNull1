@@ -1,0 +1,1 @@
+# esercizioNull1
